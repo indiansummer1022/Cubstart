@@ -1,0 +1,27 @@
+.container {
+  height: 100%;
+  width: 100%;
+  display: inline-block;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+#bored-button {
+  cursor: pointer;
+  margin-top: 100px;
+  margin-bottom: 50px;
+  box-shadow: 0 3px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+#card{
+  margin-right: 200px;
+  margin-left: 200px;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 30px;
+  border: double black;
+}
+
